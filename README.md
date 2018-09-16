@@ -4,6 +4,10 @@
 
 The IRIS project provides disaster-related information over SMS, and displays user-provided location data on a Google Maps overlay.
 
+We have uploaded a copy of all of the source code to the submission Box folder. However, we highly recommend viewing this content on the GitHub organization.
+
+[View the Organization on GitHub](https://github.com/disaster-assist)
+
 ## Components:
 
 [disaster-assist/twilio-watson-glue](https://github.com/disaster-assist/twilio-watson-glue) - Provides information via Twilio SMS using responses generated from IBM Watson.
