@@ -1,2 +1,3 @@
-# disaster-assist
-Documentation for the IRIS/disaster-assist project
+![Logo](art/Logo.png)
+
+# IRIS
