@@ -2,13 +2,16 @@
 
 # IRIS
 
+[![Build Status](https://travis-ci.org/disaster-assist/twilio-watson-glue.svg?branch=master)](https://travis-ci.org/disaster-assist/twilio-watson-glue)
+
+
 The IRIS project provides disaster-related information over SMS, and displays user-provided location data on a Google Maps overlay.
 
 We have uploaded a copy of all of the source code to the submission Box folder. However, we highly recommend viewing this content on the GitHub organization.
 
 [View the Organization on GitHub](https://github.com/disaster-assist)
 
-## Components:
+## Components
 
 [disaster-assist/twilio-watson-glue](https://github.com/disaster-assist/twilio-watson-glue) - Provides information via Twilio SMS using responses generated from IBM Watson.
 
@@ -20,3 +23,12 @@ We have uploaded a copy of all of the source code to the submission Box folder. 
 
 ## Diagram
 ![Diagram](art/Diagram.png)
+
+### Original Concept
+![artboard](art/artboard.JPG)
+
+
+### More
+
+Powered by [Rensselaer Center for Open Source](http://rcos.io) and IBM. See more at the RCOS [https://github.com/rcos](https://github.com/rcos).
+
