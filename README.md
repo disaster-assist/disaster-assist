@@ -13,3 +13,6 @@ The IRIS project provides disaster-related information over SMS, and displays us
 [disaster-assist/disaster-map-backend](https://github.com/disaster-assist/disaster-map-backend) - Serves location data to disaster-map-client
 
 [disaster-assist/disaster-clustering](https://github.com/disaster-assist/disaster-clustering) - Runs a clustering algorithm on collected location data, providing the results to disaster-map-client
+
+## Diagram
+![Diagram](art/Diagram.png)
